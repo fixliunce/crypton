@@ -1,5 +1,5 @@
 {
-    "name": "crypton",
+    "name": "lebedinst",
     "version": "1.0.0",
     "description": "The Random Data Generator npm package provides easy-to-use functions for generating random names, emails, and phone numbers in JavaScript applications.",
     "main": "./src/index.js",
